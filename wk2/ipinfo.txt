@@ -1,0 +1,24 @@
+#1
+Domain Name: microsoft.com
+IP Address: 40.113.200.201
+Geolocation: US (United States), IA, Iowa, 50307 Des Moines
+
+#2
+Domain Name: flipcart.com
+IP Address: 50.63.202.17
+Geolocation: US (United States), AZ, Arizona, 85260 Scottsdale
+
+#3
+Domain Name: amway.com
+IP Address: 40.87.67.233
+Geolocation: US (United States), VA, Virginia, 22747 Washington
+
+#4
+Domain Name: godaddy.com
+IP Address: 208.109.192.70
+Geolocation: US (United States), AZ, Arizona, 85260 Scottsdale
+
+#5
+Domain Name: apple.com
+IP Address: 17.172.224.47
+Geolocation: US (United States), CA, California, 95014 Cupertino
